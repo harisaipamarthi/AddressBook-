@@ -69,7 +69,7 @@ Typical files included in this project:
 
 ## 🔹 Learning Outcomes
 
-* Hands-on experience with **Embedded C programming**
+* Hands-on experience with ** C programming**
 * Understanding **data storage using files**
 * Improved skills in **modular programming**
 * Practice with **real-time project structure**
