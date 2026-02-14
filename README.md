@@ -1,10 +1,10 @@
 # 📒 Address Book – C Project
 
-## 🔹 Project Title
+##  Project Title
 
 **Address Book Application**
 
-## 🔹 Description
+##  Description
 
 The Address Book is a console-based application developed in **C language** that allows users to store, manage, and organize contact details efficiently.
 This project demonstrates core programming concepts such as **structures, file handling, pointers, and data management**.
@@ -13,7 +13,7 @@ It is designed to simulate a real-world contact management system where users ca
 
 ---
 
-## 🔹 Features
+##  Features
 
 * ➕ Add new contact details
 * 🔍 Search contact by name / phone number
@@ -24,7 +24,7 @@ It is designed to simulate a real-world contact management system where users ca
 
 ---
 
-## 🔹 Technologies Used
+##  Technologies Used
 
 * **Programming Language:** C
 * **Concepts Applied:**
@@ -37,7 +37,7 @@ It is designed to simulate a real-world contact management system where users ca
 
 ---
 
-## 🔹 Project Structure
+##  Project Structure
 
 Typical files included in this project:
 
@@ -51,7 +51,7 @@ Typical files included in this project:
 
 ---
 
-## 🔹 How to Run
+##  How to Run
 
 1. Compile the program:
 
@@ -67,7 +67,7 @@ Typical files included in this project:
 
 ---
 
-## 🔹 Learning Outcomes
+##  Learning Outcomes
 
 * Hands-on experience with ** C programming**
 * Understanding **data storage using files**
@@ -76,8 +76,4 @@ Typical files included in this project:
 
 ---
 
-## 🔹 Author
 
-**Harisai Pamarthi**
-Embedded Systems Trainee
-Dual Background – EEE & CSE
